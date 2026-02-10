@@ -8,6 +8,8 @@ homepage: https://github.com/google/reflectable.dart
 environment:
   sdk: ^3.9.0
 
+resolution: workspace
+
 dependencies:
   analyzer: ">=9.0.0 <11.0.0"
   build: ^4.0.0

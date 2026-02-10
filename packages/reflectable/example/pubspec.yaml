@@ -6,6 +6,8 @@ description: >
 environment:
   sdk: ^3.9.0
 
+resolution: workspace
+
 dependencies:
   build_runner: any
   reflectable: any
