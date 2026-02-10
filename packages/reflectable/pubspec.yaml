@@ -8,8 +8,6 @@ homepage: https://github.com/google/reflectable.dart
 environment:
   sdk: ^3.9.0
 
-resolution: workspace
-
 dependencies:
 dev_dependencies:
   lints: ^6.0.0
